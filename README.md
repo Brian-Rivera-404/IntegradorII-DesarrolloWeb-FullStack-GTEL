@@ -121,3 +121,4 @@ frontend/src/
 - Trabajo individual: ramas `feature/<descripcion>` creadas desde `develop`,
   con Pull Request de vuelta a `develop`. Nunca se trabaja directo sobre
   `main` ni `develop`.
+## 10- Se ampliará
